@@ -1,0 +1,33 @@
+# Ignore open XLSX & CSV
+~$**
+
+# Personal Testing Or Directories to not Push to git
+test/**
+dumps/**
+
+
+# Environment Variables via Dot-Env Loads
+**.env
+
+
+# pypi
+dist/**
+**.egg-info
+
+
+# Pycharm IDE
+**/.DS_Store
+**/.idea
+.idea/**
+.DS_Store/**
+**/.pyc
+__pycache__
+_pycache_.pyc
+__pycache__/
+__pycache__/**
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+.ipynb_checkpoints/**
