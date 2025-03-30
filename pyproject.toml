@@ -17,10 +17,9 @@ classifiers = [
 ]
 
 keywords = [
-    "Stock",
     "GuruFocus",
     "Stock Data",
-    "API"
+    "Stock API"
 ]
 
 dependencies = [
